@@ -1,0 +1,62 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+/* navigation menu styling */
+
+.menu {
+	width: 124px;
+	height: 124px;
+	text-decoration: none;
+	color: white;
+	font-size: 12pt;
+
+}
+
+#products {
+	background-color: #231f20;
+
+}
+
+#interdisciplinary {
+	background-color: #414142;
+
+}
+
+#graphics {
+	background-color: #595a5c;
+
+}
+
+#sketchbook {
+	background-color: #6e6f71;
+
+}
+
+#photography {
+	background-color: #808184;
+
+}
+
+#web {
+	background-color: #929497;
+
+}
+
+#about {
+	background-color: #a6a8ac;
+
+}
+
+
+
+
+
+
+
+
+
+
+	
